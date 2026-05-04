@@ -10,7 +10,6 @@
 **Domain:** Travel Tech | **Focus:** Marketplace & 3rd Party Integrations
 - **Portfolios Managed:** Supplier Marketplace, 3rd Party Integrations, AI Initiatives
 - **Expertise:** Marketplace dynamics, partner ecosystem growth, AI-powered travel solutions
-- *Probation Period Note: Evaluating strategic fit due to company pivot (Mar 2026)*
 
 ---
 
